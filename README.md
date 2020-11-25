@@ -1,1 +1,4 @@
 # HW_3_1-BMI-calculator
+Problem 1: Write a C# program that calculates and displays a person's body mass index (BMI).
+The BMI is often used to determine whether a person with a sedentary lifestyle is overweight, or is underweight. A person's BMI is calculated with the following formula:
+BMI = weight * 703/ height2 where weight is measured in pounds and height is measured in inches. The program ask the user to enter values for weight and height. Then it should display the person's BMI and a message indicating whether the person has optimal weight, is underweight, or is overweight. A sedentary person's weight is considered to be optimal if his or her BMI is between 18.5 and 25 (inclusively). If the BMI is less than 18.5, the person is considered to be underweight. If the BMI value is greater than 25, the person is considered to be overweight.
